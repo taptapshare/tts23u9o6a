@@ -15,7 +15,7 @@ hr {
 }
 
 body, html {
-    background: url(newback.png) no-repeat;
+    background: url(back.jpeg) no-repeat;
     font-family: 'Kanit', sans-serif;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -156,4 +156,13 @@ svg {
 .head
 {
     text-align: right;
+}
+
+.sticky1{
+
+position: sticky;
+top: 0;
+width: 100%;
+text-align: center;
+
 }
