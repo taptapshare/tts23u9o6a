@@ -157,12 +157,3 @@ svg {
 {
     text-align: right;
 }
-
-.sticky1{
-
-position: sticky;
-top: 0;
-width: 100%;
-text-align: center;
-
-}
